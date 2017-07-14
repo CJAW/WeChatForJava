@@ -1,0 +1,7 @@
+127.0.0.1 - - [08/Jul/2016:12:58:52 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Jul/2016:12:59:22 +0800] "GET /WeiXingservlet HTTP/1.1" 404 1022
+0:0:0:0:0:0:0:1 - - [08/Jul/2016:12:59:23 +0800] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [08/Jul/2016:12:59:31 +0800] "GET /WeiXingServlet HTTP/1.1" 404 1022
+0:0:0:0:0:0:0:1 - - [08/Jul/2016:13:00:05 +0800] "GET /WeChatRequestAndRespond/WeiXingServlet HTTP/1.1" 500 1759
+127.0.0.1 - - [08/Jul/2016:13:27:52 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Jul/2016:13:27:56 +0800] "GET /WeChatRequestAndRespond/WeiXingServlet HTTP/1.1" 500 1759

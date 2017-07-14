@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Groups/src&apos;&#x0A;- Original project: &apos;GetUserInformation&apos;&#x0A;- Destination element: &apos;Groups/src&apos;&#x0A;- Original elements:&#x0A;     GetUserInformation/src/com.wechat.myX509TureManager&#x0A;     GetUserInformation/src/com.wechat.https" description="Copy packages" destination="=Groups/src" element1="/src&lt;com.wechat.myX509TureManager" element2="/src&lt;com.wechat.https" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1469983807339" version="1.0"/>
+</session>

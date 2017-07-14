@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;SurroundSearch/src&apos;&#x0A;- Original project: &apos;Media&apos;&#x0A;- Destination element: &apos;SurroundSearch/src&apos;&#x0A;- Original elements:&#x0A;     Media/src/com.wechat.https&#x0A;     Media/src/com.wechat.myX509TureManager" description="Copy packages" destination="=SurroundSearch/src" element1="/src&lt;com.wechat.https" element2="/src&lt;com.wechat.myX509TureManager" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1472980451274" version="1.0"/>
+</session>

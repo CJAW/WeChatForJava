@@ -1,0 +1,19 @@
+INDEX VERSION 1.3+/Users/user/Desktop/微信应用开发/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3703194086.index
+4268243210.index
+3150862150.index
+2903323249.index
+2443843479.index
+393999622.index
+452114302.index
+337068630.index
+2167793569.index
+4262633201.index
+444388652.index
+4015146866.index
+3587947133.index
+1551076116.index
+3801746414.index
+2635747800.index
+4245978280.index
+720858965.index

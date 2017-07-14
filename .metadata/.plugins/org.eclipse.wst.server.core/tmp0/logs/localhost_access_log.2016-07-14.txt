@@ -1,0 +1,2 @@
+127.0.0.1 - - [14/Jul/2016:01:42:23 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [14/Jul/2016:01:42:23 +0800] "GET /DIYMenu/WEB-INF/classes/com/wechat/parse_generat_xml/util/GeneratXml.java HTTP/1.1" 404 992
